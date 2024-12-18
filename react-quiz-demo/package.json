@@ -1,0 +1,8 @@
+{
+  "name": "react-quiz-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react-quiz-component": "^0.9.1"
+  }
+}
